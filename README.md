@@ -1,7 +1,7 @@
 # Transfer Learning in BERT models
 This is an experimental approach to determine factors of success in transfer learning across BERT models with a focus on domain similarity and domain shifts.
 
-The main paper to read is Exploring Transfer Learning Performance
+The main paper to read is [Exploring Transfer Learning Performance]([Exploring Transfer Learning Performance.pdf](https://github.com/hngondoki/transfer_learning_BERT_models/blob/main/Exploring%20Transfer%20Learning%20Performance.pdf)
 
 Here is the abstract:
 Abstract
